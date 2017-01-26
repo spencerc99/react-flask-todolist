@@ -1,0 +1,17 @@
+*.DS_Store
+*.pyc
+helloflask/
+.git
+.Python
+bin
+lib
+include
+*.py[cod]
+.DS_Store
+env
+venv
+
+node_modules/
+npm-debug.log
+bower_components/
+.module-cache
